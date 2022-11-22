@@ -1,0 +1,200 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+}
+
+.btn{
+	font-family: 'Kanit',sans-serif;
+}
+
+.btn-success{
+	color: #fff;
+}
+
+.btn-success:hover{
+	background-color: #242424;
+	border-color: #242424;
+	color: #fff;
+}
+
+.page-section{
+	padding: 8rem 0;
+}
+
+.footer-info{
+	background-color: #000;
+}
+ 
+
+.footer-title{
+	color: rgb(255, 255, 255);
+	font-family: 'Kanit',sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 46px;
+}
+
+.copyright{
+	color:#519643;
+	font-family: 'Kanit',sans-serif;
+	font-size: 14px;
+	font-weight: 300;
+}
+
+
+#mainNav{
+	-webkit-box-shadow: 0.05rem 1rem rgba(0, 0, 0, 0.15);
+	box-shadow: 0.05rem 1rem rgba(0, 0, 0, 0.15);
+	background-color: #fff;
+	-webkit-transition: background-color 0.2s ease; 
+	transition: background-color 0.2s ease; 
+}
+
+
+
+#mainNav .navbar-nav .nav-item .nav-link {
+	color:#242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 0.9rem;
+	font-weight: 700;
+	padding:0.75rem 0;
+}
+
+
+
+
+#mainNav .navbar-nav .nav-item .nav-link:hover{
+  color: #ffa200 !important;
+}
+
+li.nav-item {
+  display: inline;
+  padding: 10px;
+}
+
+
+.subscribe-section{
+	background-image: url("../img/footer_map.png");
+	background-color:#242424;
+}
+
+.contact-heading{
+	color: #519643;
+	font-family: 'Kanit',sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+}
+
+.contact-info{
+	color: #fff;
+	font-family: 'Kanit',sans-serif;
+	font-size: 18px;
+}
+
+a.explore-link{
+	color: #fff;
+	font-family: 'Kanit',sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+a.explore-link:hover{
+	color: #c0aa83;
+	font-family: 'Kanit',sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.logo-text-white{
+	color: #fff;
+	font-family: 'Kanit',sans-serif;
+	font-size: 16px;
+}
+
+/*PRODUCT PAGE STYLING*/
+
+.blog-sidebar-title{
+	color: #242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 25px;
+	font-weight: 900;
+}
+
+.blog-sidebar-list{
+	color: #242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 16px;
+	font-weight: 900;
+}
+
+.blog-sidebar-text{
+	color: #242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 16px;
+	font-weight: 200;
+}
+
+.blog-form{
+	background-color: #F4F4F4; 
+	padding: 50px;
+	height: 1000px;
+}
+
+.list-icon{
+
+	color: #c0aa83;
+
+}
+
+.tags{
+	color: #242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+.tags{
+	color: #242424;
+	font-family: 'Kanit',sans-serif;
+	font-size: 20px;
+	font-weight: 200;
+}
+
+
+
+.product-sidebar-list{
+	color: #242424;
+}
+
+.product-sidebar-list:hover{
+	color: #c0aa83;
+}
+
+.card-title{
+	color: #000000;
+	font-family: 'Kanit',sans-serif;
+	font-size: 25px;
+	font-weight: 900;
+}
+
+.card-text{
+	font-family: 'Kanit',sans-serif;
+	font-size: 13px;
+}
+
+
+.button-text{
+	font-family: 'Kanit',sans-serif;
+	font-size: 14px;
+	font-weight: 900;
+}
+
+.product-image{
+	width: 200px;
+	height: 200px;
+}
+
+.logo{
+	color: white;
+}
